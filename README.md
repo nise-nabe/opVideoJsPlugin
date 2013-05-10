@@ -1,4 +1,4 @@
-opVideoJpPlugin
+opVideoJsPlugin
 ===============
 
 Write README
